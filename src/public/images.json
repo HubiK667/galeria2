@@ -1,0 +1,18 @@
+{
+    "nature": [
+      { "id": 1, "src": "/images/nature1.jpg", "alt": "Nature 1" },
+      { "id": 2, "src": "/images/nature2.jpg", "alt": "Nature 2" },
+      { "id": 3, "src": "/images/nature3.jpg", "alt": "Nature 3" }
+    ],
+    "city": [
+      { "id": 4, "src": "/images/city1.jpg", "alt": "City 1" },
+      { "id": 5, "src": "/images/city2.jpg", "alt": "City 2" },
+      { "id": 6, "src": "/images/city3.jpg", "alt": "City 3" }
+    ],
+    "animals": [
+      { "id": 7, "src": "/images/animal1.jpg", "alt": "Animal 1" },
+      { "id": 8, "src": "/images/animal2.jpg", "alt": "Animal 2" },
+      { "id": 9, "src": "/images/animal3.jpg", "alt": "Animal 3" }
+    ]
+  }
+  
